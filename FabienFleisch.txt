@@ -1,0 +1,67 @@
+Q: What is the role of " import url('https://....') " ? What does it do ?  
+
+The goal is to import an external element of our project, we will recover it thanks to the link put in import url. 
+In this case we import logos. 
+
+
+Q. What is asterisk * in this code ? What does it do ? 
+
+It selects all the elements of the document
+ 
+
+Q. In the code box-sizing is set to border-box. What does box-sizing: border-box; do ? 
+
+If you set box-sizing: border-box; on an element, the padding and border are included in the width and height. 
+
+
+Q. What is the meaning of 100vh ? 
+
+100vh Allows to define a size equal to the height of our screen   
+ 
+
+Q. What is overflow-y: hidden? Hint : it is for scroll bar. What does it do to the scroll bar? 
+
+It will remove/hide the horizontal scroll bar from the division it is applied to  
+ 
+
+Q : What we do in the search class ? What we do to search form class which is inside of the search/center section ? 
+
+We set its display property to flex to create sections with the layout from it. 
+We also apply a flex to it, we give it an outline = 1px which is color #ddd in hexa and finally we give it a height of 45px 
+
+
+Q. What is border-radius ? 
+
+It allows to curve the angles so that it is not in right angle, we can define at which point it will be curved 
+
+
+Q . What is flex-direction ? What does it do ?  
+
+Allows you to define in which direction the elements in our container element will be displayed. Can be either in row or in column 
+
+
+Q. What is .home:hover ?  
+
+The style will be applied only if we put our cursor on the element, here the home navigation link 
+ 
+
+Q. How are we going to create multiple links in the sidebar ? 
+
+We are going to put a tag in our container which is in flex  
+
+
+Q. What is flex-wrap ? What does "flex-wrap" do ? 
+
+The flex-wrap property indicates whether flex elements are constrained to be arranged on a single line or whether they can be displayed on multiple lines with an automatic line wrap. If line wrap is allowed, the property also controls the direction in which the lines are stacked.
+ 
+
+Q. What is object-fit: cover. How do we use it ?  
+
+The CSS object-fit property defines how the content of a replaced element should be resized to fit its container. 
+Cover will make sure that the element will keep its aspect ratio by filling the whole area of the container  
+The replaced content is sized to keep its aspect ratio while filling the entire content area of the element. If the object's aspect ratio does not match the aspect ratio of its frame, the object is cut to fit. 
+ 
+
+Q. What is text decoration? 
+
+Text decoration is a property used to "decorate" text by adding, for example, highlighting, lines that run through, over or/and under our text. 
